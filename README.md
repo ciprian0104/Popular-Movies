@@ -29,3 +29,9 @@ Here is an android application for the Udacity Popular movies project. The app s
 
 # Screenshots
 
+![](movie-1.jpeg)
+![](movie-2.jpeg)
+![](movie-3.jpeg)
+![](movie-4.png)
+
+
