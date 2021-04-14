@@ -29,8 +29,8 @@ Here is an android application for the Udacity Popular movies project. The app s
 
 # Screenshots
 
-<img src="movie-1.jpeg" width="800" height="600">
-<img src="movie-2.jpeg" width="800" height="600">
-<img src="movie-3.png" width="800" height="600">
-<img src="movie-4.jpeg" width="800" height="600">
+<img src="movie-1.jpeg" width="1200" height="600">
+<img src="movie-2.jpeg" width="1200" height="600">
+<img src="movie-3.jpeg" width="1200" height="600">
+<img src="movie-4.png" width="1200" height="600">
 
