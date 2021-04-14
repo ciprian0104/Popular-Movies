@@ -34,4 +34,4 @@ Here is an android application for the Udacity Popular movies project. The app s
 ![](movie-3.jpeg)
 ![](movie-4.png)
 
-
+<img src="movie-1.jpeg" width="100" height="100">
